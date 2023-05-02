@@ -1,0 +1,98 @@
+commit 4b81991dc98ba9dd0ad3ca03d0c125806c1f8d94
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 10:38:33 2023 -0600
+
+    Agregando 2 párrafos
+
+commit d3d0fd6e90e49a31a8449eae81705716cf5664ac
+Merge: e75697d 7cb07d5
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 10:35:50 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit e75697d184c7f7d5855cb9e21ca7d536924b034e
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 10:18:15 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7cb07d5b83fc9cee6de832d3a2462d1d709458aa
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 10:18:15 2023 -0600
+
+    Agregando las estaciones del año
+
+commit b1dd18e73595d51b4e7cc6aab6be4ab3013a771c
+Merge: 6e3f843 016c870
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 10:09:58 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 016c870ac7a45c80701a7674e056868d8abf56b7
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 09:58:06 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 6e3f8431b86d385829861fad3369e0eee83362fa
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 09:55:03 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 9f910290cc2d6d363266e984a739d845abad6005
+Merge: 2774ba6 14fc862
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Tue May 2 09:42:33 2023 -0600
+
+    Merge branch 'js'
+
+commit 14fc862f4bd42d11fd40a0d7d8bc00f8951ad540
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 17:41:01 2023 -0600
+
+    Creando index.js
+
+commit 2774ba6bd81611982874ac47e1ab415696686686
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 17:35:57 2023 -0600
+
+    Creando style.css
+
+commit 2ea34526725ff12ba1f30eaaf630fd348fe1832d
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 17:31:06 2023 -0600
+
+    Creando index.html
+
+commit d2c99f7c7ba3534d6ba4ed1d1aa9aa9ab60cc805
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 17:15:06 2023 -0600
+
+    Ignorando archivos .exe
+
+commit 0bc495607bb12ec1ed4288c24bf8b057fc72e9c5
+Author: Jose Luis Gomez <94010112+jlgarcia0308@users.noreply.github.com>
+Date:   Fri Apr 28 14:41:36 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 78527269b96b8c2c737b92dbdb239b78345fd5e2
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 14:35:53 2023 -0600
+
+    Agregando mas contenido al README
+
+commit f068e92495392c418cfdf6c1bcef699683382911
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 14:23:12 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 1adcb87b282622fcaa77eee5d98bc0904d0c23d9
+Author: Jose Luis Gomez <jlgarcia0308@outlook.com>
+Date:   Fri Apr 28 14:17:52 2023 -0600
+
+    Primer commit 😃
